@@ -12,10 +12,10 @@ const Hero = () => {
                     voluptate.</p>
                 </div>
                 <div class="social-links">
-                    <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-                    <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-                    <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-                    <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+                    <a href="#hero" class="twitter"><i class="bi bi-twitter"></i></a>
+                    <a href="#hero" class="facebook"><i class="bi bi-facebook"></i></a>
+                    <a href="#hero" class="instagram"><i class="bi bi-instagram"></i></a>
+                    <a href="#hero" class="linkedin"><i class="bi bi-linkedin"></i></a>
                     <a href="assets/cv/cvtonny.pdf" class="linkedin" alt="Télécharger mon CV" attribut="download"><i
                         className="bi bi-upload"></i></a>
                 </div>
